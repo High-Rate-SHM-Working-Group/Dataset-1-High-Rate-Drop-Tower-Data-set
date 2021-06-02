@@ -4,7 +4,7 @@ A data set focused on quad PCBs under shock
 
 ![plot](./images/candata.png)
 
-Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
+Figure 1: Deacceleration data for test 1, 3, and 5. 
 
 
 ![plot](./images/testbench_final.png)
