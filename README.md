@@ -1,5 +1,5 @@
 # Dataset-1-quad-PCB-shock-loading
-A data set focused on quad PCBs under shock.
+This dataset contains the measured acceleration data for an accelerometer mounted on one of four PCBs as shown in figure 1.  
 
 
 
@@ -10,7 +10,7 @@ A data set focused on quad PCBs under shock.
 Figure 1: Experimental setup of drop test data
 </p>
 
-
+The test specimen is subjected to 5 repeated tests where slight variations in the signal are observed, presumably caused by damage in the PCBs. These results are shown in figure 2. 
 
 <p align="center">
 <img src="images/candata.png" alt="drawing" width="600"/>
@@ -19,7 +19,7 @@ Figure 1: Experimental setup of drop test data
 Figure 2: Deacceleration data for test 1, 3, and 5. 
 </p>
 
-
+Figure 3 is presents the experimental test configuration and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"> <here> </a>. 
 
 
 
