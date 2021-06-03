@@ -12,7 +12,7 @@ Figure 1: Experimental setup of drop test data
 
 
 <p align="center">
-![plot](./images/candata.png)
+<img src="images/candata.png" alt="drawing" width="600"/>
 Figure 2: Deacceleration data for test 1, 3, and 5. 
 </p>
 
