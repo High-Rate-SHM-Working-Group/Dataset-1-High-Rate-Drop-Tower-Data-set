@@ -1,23 +1,30 @@
 # Dataset-1-quad-PCB-shock-loading
 A data set focused on quad PCBs under shock.
 
+
 ![plot](./images/test_setup.png)
-<img src="images/test_setup.png" alt="drawing" width="200"/>
+<p align="center">
+<img src="images/test_setup.png" alt="drawing" width="600"/>
 
 Figure 1: Experimental setup of drop test data
+</p>
 
+
+
+<p align="center">
 ![plot](./images/candata.png)
 Figure 2: Deacceleration data for test 1, 3, and 5. 
-
+</p>
 
 <div style="text-align:center">
 <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="200"></a> </div>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="400"></a>  
+Figure 3: Video of shock test (click the image to view the video on YouTube). 
 </p>
 
-Figure 3: Deacceleration data for test 1, 3, and 5. 
+
 
 This data set has subsequently been used in the following publications:
 1. Austin Downey, Jonathan Hong, Jacob Dodson, Michael Carroll, and James Scheppegrell, "Millisecond Model Updating for Structures Experiencing Unmodeled High-rate Dynamic Events." Mechanical Systems and Signal Processing, vol. 138, 2020, p. 106551, doi:10.1016/j.ymssp.2019.106551.
