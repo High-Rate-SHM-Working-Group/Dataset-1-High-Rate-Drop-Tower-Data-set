@@ -1,5 +1,5 @@
 # Dataset-1-quad-PCB-shock-loading
-A data set focused on quad PCBs under shock
+A data set focused on quad PCBs under shock.
 
 
 ![plot](./images/candata.png)
