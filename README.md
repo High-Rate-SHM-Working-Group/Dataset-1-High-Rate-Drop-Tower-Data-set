@@ -19,8 +19,10 @@ The test specimen is subjected to 5 repeated tests where slight variations in th
 Figure 2: Deacceleration data for test 1, 3, and 5. 
 </p>
 
-Figure 3 is presents the experimental test configuration and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"> <here> </a>. 
+Figure 3 is presents the experimental test configuration and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina">here</a>.
 
+
+[here](https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina)
 
 
 <p align="center">
