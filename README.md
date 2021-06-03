@@ -2,7 +2,7 @@
 A data set focused on quad PCBs under shock.
 
 
-![plot](./images/test_setup.png)
+
 <p align="center">
 <img src="images/test_setup.png" alt="drawing" width="600"/>
 
