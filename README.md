@@ -1,5 +1,5 @@
 # Dataset-1-quad-PCB-shock-loading
-This dataset contains the measured acceleration data for an accelerometer mounted on one of four PCBs as shown in figure 1.  
+This dataset contains the measured acceleration data for an electronics unit under shock test. Figure 1 shows the electronics unit which consists of four circuit boards with high-g Meggitt 72 accelerometers mounted on each. These high-g accelerometers are able to accurately measure accelerations of 120,000 gn or 120 kgn, where 1 gn = 9.81 m/s2 = 32.2 ft/s2. The electronics are potted in the canister with potting material to secure all parts in place. 
 
 
 
@@ -10,7 +10,7 @@ This dataset contains the measured acceleration data for an accelerometer mounte
 Figure 1: Experimental setup of drop test data
 </p>
 
-The test specimen is subjected to 5 repeated tests where slight variations in the signal are observed, presumably caused by damage in the PCBs. These results are shown in figure 2. 
+The test specimen is subjected to 5 repeated tests where slight variations in the signal are observed, presumably caused by damage in the PCBs. Figure 2 shows the deceleration profile from three different tests for a single accelerometer.
 
 <p align="center">
 <img src="images/candata.png" alt="drawing" width="600"/>
@@ -19,7 +19,8 @@ The test specimen is subjected to 5 repeated tests where slight variations in th
 Figure 2: Deacceleration data for test 1, 3, and 5. 
 </p>
 
-Figure 3 is presents the experimental test configuration and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina">here</a>.
+Figure 3 is presents the experimental test configuration where the package is mounted on a MTS-66 shock test system designed to generate various impact conditions
+ and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina">here</a>.
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="400"></a>  
@@ -31,11 +32,11 @@ Figure 3: Video of shock test (click the image to view the video on YouTube).
 
 
 This data set has subsequently been used in the following publications:
-1. Austin Downey, Jonathan Hong, Jacob Dodson, Michael Carroll, and James Scheppegrell, "Millisecond Model Updating for Structures Experiencing Unmodeled High-rate Dynamic Events." Mechanical Systems and Signal Processing, vol. 138, 2020, p. 106551, doi:10.1016/j.ymssp.2019.106551.
+1. Hong, Jonathan, Simon Laflamme, Jacob Dodson, and Bryan Joyce. "Introduction to state estimation of high-rate system dynamics." Sensors 18, no. 1 (2018): 217.
+1. Hong, Jonathan, Simon Laflamme, Liang Cao, Jacob Dodson, and Bryan Joyce. "Variable input observer for nonstationary high-rate dynamic systems." Neural computing and applications 32, no. 9 (2020): 5015-5026.
+1. Hong, Jonathan, Simon Laflamme, and Jacob Dodson. "Study of input space for state estimation of high‐rate dynamics." Structural Control and Health Monitoring 25, no. 6 (2018): e2159.
 
-1. Seong Hyeon Hong, Claire Drnek, Austin Downey, Yi Wang, Jacob Dodson, and Jonathan Hong., "Real-time Model Updating Algorithm for Structures Experiencing High-rate Dynamic Events." Proceedings of the ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS 2020), 2020, doi:10.1115/smasis2020-2439
 
-1. Claire Rae Drnek, "Local Eigenvalue Modification Procedure for Real-time Model Updating of Structures Experiencing High-rate Dynamic Events." University of South Carolina, 2020, University of South Carolina Graduate Theses and Dissertations.
 
 
 
