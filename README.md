@@ -3,6 +3,7 @@ A data set focused on quad PCBs under shock.
 
 ![plot](./images/test_setup.png)
 <img src="images/test_setup.png" alt="drawing" width="200"/>
+
 Figure 1: Experimental setup of drop test data
 
 ![plot](./images/candata.png)
