@@ -21,6 +21,7 @@ Figure 2: Deacceleration data for test 1, 3, and 5.
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="400"></a>  
+
 Figure 3: Video of shock test (click the image to view the video on YouTube). 
 </p>
 
