@@ -16,8 +16,6 @@ Figure 1: Experimental setup of drop test data
 Figure 2: Deacceleration data for test 1, 3, and 5. 
 </p>
 
-<div style="text-align:center">
-<a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="200"></a> </div>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="400"></a>  
