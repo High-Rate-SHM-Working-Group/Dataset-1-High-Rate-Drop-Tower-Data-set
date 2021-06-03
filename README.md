@@ -11,7 +11,7 @@ Figure 2: Deacceleration data for test 1, 3, and 5.
 
 <img src="images/shock_test_system.png" alt="drawing" width="200"/>
 
-
+<a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="mages/shock_test_system.png" alt="Shock test impact testing" style="width:42px;height:42px;"></a>
 
 This data set has subsequently been used in the following publications:
 1. Austin Downey, Jonathan Hong, Jacob Dodson, Michael Carroll, and James Scheppegrell, "Millisecond Model Updating for Structures Experiencing Unmodeled High-rate Dynamic Events." Mechanical Systems and Signal Processing, vol. 138, 2020, p. 106551, doi:10.1016/j.ymssp.2019.106551.
