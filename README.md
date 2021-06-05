@@ -1,5 +1,6 @@
-# Dataset-1-quad-PCB-shock-loading
-This dataset contains the measured acceleration data for an electronics unit under shock test. Figure 1 shows the electronics unit which consists of four circuit boards with high-g Meggitt 72 accelerometers mounted on each. These high-g accelerometers are able to accurately measure accelerations of 120,000 gn or 120 kgn, where 1 gn = 9.81 m/s2 = 32.2 ft/s2. The electronics are potted in the canister with potting material to secure all parts in place. 
+# Dataset-1-Quad-PCB-Shock-Loading
+
+This dataset contains the measured acceleration data for an electronics unit under shock test. Figure 1 shows the electronics unit which consists of four circuit boards with high-g Meggitt 72 accelerometers mounted on each. These high-g accelerometers are able to accurately measure accelerations of 120,000 g<sup>n</sup> or 120 kg<sup>n</sup>, where 1 g<sup>n</sup> = 9.81 m/s2 = 32.2 ft/s2. The electronics are potted in the canister with potting material to secure all parts in place. 
 
 
 
