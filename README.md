@@ -35,7 +35,7 @@ Figure 3: Video of shock test (click the image to view the video on YouTube).
 This data set has subsequently been used in the following publications:
 1. Hong, Jonathan, Simon Laflamme, Jacob Dodson, and Bryan Joyce. "Introduction to state estimation of high-rate system dynamics." Sensors 18, no. 1 (2018): 217.
 1. Hong, Jonathan, Simon Laflamme, Liang Cao, Jacob Dodson, and Bryan Joyce. "Variable input observer for nonstationary high-rate dynamic systems." Neural computing and applications 32, no. 9 (2020): 5015-5026.
-1. Hong, Jonathan, Simon Laflamme, and Jacob Dodson. "Study of input space for state estimation of high‐rate dynamics." Structural Control and Health Monitoring 25, no. 6 (2018): e2159.
+1. Hong, Jonathan, Simon Laflamme, and Jacob Dodson. "Study of input space for state estimation of high-rate dynamics." Structural Control and Health Monitoring 25, no. 6 (2018): e2159.
 
 
 
