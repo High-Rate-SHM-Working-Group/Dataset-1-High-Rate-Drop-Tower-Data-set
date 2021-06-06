@@ -20,8 +20,7 @@ The test specimen is subjected to 5 repeated tests where slight variations in th
 Figure 2: Deacceleration data for test 1, 3, and 5 for accelerometer #1 (top) and accelerometer #2 (bottom). 
 </p>
 
-Figure 3 is presents the experimental test configuration where the package is mounted on a MTS-66 shock test system designed to generate various impact conditions
- and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina">here</a>.
+Figure 3 is presents the experimental test configuration where the package is mounted on a MTS-66 shock test system designed to generate various impact conditions and a video of the test can be found <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina">here</a>.
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Azxv1YyBkQw&ab_channel=ARTS-LabattheUniversityofSouthCarolina"><img src="images/shock_test_system.png" alt="Shock test impact testing" width="400"></a>  
