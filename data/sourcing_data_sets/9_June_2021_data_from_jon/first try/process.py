@@ -42,10 +42,10 @@ plt.close('all')
 
 
 
-accel_1 = np.loadtxt('accel1.txt',delimiter=',')
-accel_2 = np.loadtxt('accel2.txt',delimiter=',')
-accel_3 = np.loadtxt('accel3.txt',delimiter=',')
-accel_4 = np.loadtxt('accel4.txt',delimiter=',')
+accel_1 = np.loadtxt('accel1.txt',skiprows=2,delimiter=',')
+accel_2 = np.loadtxt('accel2.txt',skiprows=2,delimiter=',')
+accel_3 = np.loadtxt('accel3.txt',skiprows=2,delimiter=',')
+accel_4 = np.loadtxt('accel4.txt',skiprows=2,delimiter=',')
 fs = 1/1000000
 N = accel_1.shape[0]
 tt = np.linspace(0,N*fs,num=N)
@@ -66,54 +66,6 @@ plt.ylabel('deacceleration (g)')
 plt.title('accelerometer #4')
 plt.legend(framealpha=1,fontsize=8,ncol=2,loc=3)
 plt.tight_layout()
-
-
-
-#%% Compare the data sets
-
-
-
-D = np.loadtxt('../../accel_1.csv',skiprows=2,delimiter=',')
-
-ref = D[:,3]
-
-plt.figure(figsize=(6.5,5))
-plt.plot(accel_1,label='accel 1',lw='0.5')
-plt.plot(ref,label='ref',lw='0.5')
-plt.ylim(-90,60)
-plt.grid('on')
-plt.xlabel('time (s)')
-plt.ylabel('deacceleration (g)')
-plt.title('accelerometer #4')
-plt.legend(framealpha=1,fontsize=8,ncol=2,loc=3)
-plt.tight_layout()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
