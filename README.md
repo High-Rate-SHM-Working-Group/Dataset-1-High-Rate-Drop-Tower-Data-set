@@ -1,6 +1,6 @@
 # Dataset-1-Quad-PCB-Shock-Loading
 
-This dataset contains the measured acceleration data for an electronics unit under shock test. Figure 1 shows the electronics unit which consists of four circuit boards with high-g Meggitt 72 accelerometers mounted on each. The units for the accelerometers are in kg<sub>n</sub> and are sampled at 1 MS/s. The Meggitt 72 high-g accelerometers are able to accurately measure accelerations of 120,000 g<sub>n</sub> or 120 kg<sub>n</sub>, where 1 g<sub>n</sub> = 9.81 m/s<sup>2</sup> = 32.2 ft/s<sup>2</sup>. The electronics are potted in the canister with potting material to secure all parts in place. 
+This dataset contains the measured acceleration data for an electronics unit under shock test. Figure 1 shows the electronics unit which consists of four circuit boards with high-g Meggitt 72 accelerometers mounted on each. The units for the accelerometers are in kg<sub>n</sub> and are sampled at 1 MS/s. The Meggitt 72 high-g accelerometers are able to accurately measure accelerations of 120,000 g<sub>n</sub> or 120 kg<sub>n</sub>, where 1 g<sub>n</sub> = 9.81 m/s<sup>2</sup> = 32.2 ft/s<sup>2</sup>. The electronics are potted in the canister with potting material to secure all parts in place. The axial fixture is instrumented with a bottom accelerometer (an Endevco7280A-60k) and a top accelerometer (an Endevco7270A-60k) to measure the input into the fixture.
 
 
 
@@ -31,8 +31,11 @@ Figure 3: Video of shock test (click the image to view the video on YouTube).
 </p>
 
 
+This data set was developed at the AFRL to be shared with academic collaborators to provide relevant high-rate data for development of algorithms. The PDF titled "(96TW-2019-0471) High Rate Drop Tower Data.pdf" contains a more detailed discussion of the dataset. 
 
-This data was originally published by Hong et al. in "Robust variable input observer for structural health monitoring of systems experiencing harsh extreme environments".  This data set has subsequently been used in the following publications:
+DISTRIBUTION A: Approved for public release; distribution unlimited (96TW-2019-0471)
+
+This data set has been used in the following publications:
 1. Hong, Jonathan, Liang Cao, Simon Laflamme, and Jacob Dodson. "Robust variable input observer for structural health monitoring of systems experiencing harsh extreme environments." (2017).
 1. Hong, Jonathan, Liang Cao, Simon Laflamme, and Jacob Dodson. "Variable input observer for state estimation of high-rate dynamics." In Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2017, vol. 10168, p. 101680S. International Society for Optics and Photonics, 2017.
 1. Hong, Jonathan, Simon Laflamme, Jacob Dodson, and Bryan Joyce. "Introduction to state estimation of high-rate system dynamics." Sensors 18, no. 1 (2018): 217.
