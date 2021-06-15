@@ -32,25 +32,13 @@ Figure 3: Video of shock test (click the image to view the video on YouTube).
 
 
 
-This data set has subsequently been used in the following publications:
+This data was originally published by Hong et al. in "Robust variable input observer for structural health monitoring of systems experiencing harsh extreme environments".  This data set has subsequently been used in the following publications:
+1. Hong, Jonathan, Liang Cao, Simon Laflamme, and Jacob Dodson. "Robust variable input observer for structural health monitoring of systems experiencing harsh extreme environments." (2017).
+1. Hong, Jonathan, Liang Cao, Simon Laflamme, and Jacob Dodson. "Variable input observer for state estimation of high-rate dynamics." In Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2017, vol. 10168, p. 101680S. International Society for Optics and Photonics, 2017.
 1. Hong, Jonathan, Simon Laflamme, Jacob Dodson, and Bryan Joyce. "Introduction to state estimation of high-rate system dynamics." Sensors 18, no. 1 (2018): 217.
-1. Hong, Jonathan, Simon Laflamme, Liang Cao, Jacob Dodson, and Bryan Joyce. "Variable input observer for nonstationary high-rate dynamic systems." Neural computing and applications 32, no. 9 (2020): 5015-5026.
 1. Hong, Jonathan, Simon Laflamme, and Jacob Dodson. "Study of input space for state estimation of high-rate dynamics." Structural Control and Health Monitoring 25, no. 6 (2018): e2159.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Hong, Jonathan. "A path for microsecond structural health monitoring for high-rate nonstationary time-varying systems." (2019).
+1. Hong, Jonathan, Simon Laflamme, Liang Cao, Jacob Dodson, and Bryan Joyce. "Variable input observer for nonstationary high-rate dynamic systems." Neural computing and applications 32, no. 9 (2020): 5015-5026.
 
 
 

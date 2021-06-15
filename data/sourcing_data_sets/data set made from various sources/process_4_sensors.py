@@ -40,7 +40,8 @@ plt.close('all')
 # dd_5 = np.loadtxt('data/test5_fig2.csv',delimiter=',')
 
 D = np.loadtxt('../data/accel_4.csv',skiprows=2,delimiter=',')
-tt = (D[:,0]*1000)-0.4
+tt = D[:,0]-0.00195
+tt = tt*1000 
 dd_1 = D[:,1]
 dd_2 = D[:,2]
 dd_3 = D[:,3]
@@ -56,7 +57,7 @@ plt.plot(tt,dd_1,label='test 1',lw='0.5')
 plt.plot(tt,dd_3,'-.',label='test 3',lw='0.5')
 #plt.plot(tt,dd_4,':',label='test 4',lw='0.5')
 plt.plot(tt,dd_5,'-',label='test 5',lw='0.5')
-plt.xlim(0,0.8)
+plt.xlim(0,0.6)
 plt.ylim(-90,60)
 plt.grid('on')
 plt.xlabel('time (milliseconds)')
@@ -66,7 +67,8 @@ plt.legend(framealpha=1,fontsize=8,ncol=2,loc=3)
 plt.tight_layout()
 
 D = np.loadtxt('../data/accel_3.csv',skiprows=2,delimiter=',')
-tt = (D[:,0]*1000)-0.4
+tt = D[:,0]-0.00198
+tt = tt*1000 
 dd_1 = D[:,1]
 dd_2 = D[:,2]
 dd_3 = D[:,3]
@@ -79,7 +81,7 @@ plt.plot(tt,dd_1,label='test 1',lw='0.5')
 plt.plot(tt,dd_3,'-.',label='test 3',lw='0.5')
 #plt.plot(tt,dd_4,':',label='test 4',lw='0.5')
 plt.plot(tt,dd_5,'-',label='test 5',lw='0.5')
-plt.xlim(0,0.8)
+plt.xlim(0,0.6)
 plt.ylim(-23,32)
 plt.grid('on')
 plt.xlabel('time (milliseconds)')
@@ -89,7 +91,8 @@ plt.legend(framealpha=1,fontsize=8,ncol=2,loc=3)
 plt.tight_layout()
 
 D = np.loadtxt('../data/accel_2.csv',skiprows=2,delimiter=',')
-tt = (D[:,0]*1000)-0.4
+tt = D[:,0]-0.00198
+tt = tt*1000 
 dd_1 = D[:,1]
 dd_2 = D[:,2]
 dd_3 = D[:,3]
@@ -102,8 +105,8 @@ plt.plot(tt,dd_1,label='test 1',lw='0.5')
 plt.plot(tt,dd_3,'-.',label='test 3',lw='0.5')
 #plt.plot(tt,dd_4,':',label='test 4',lw='0.5')
 plt.plot(tt,dd_5,'-',label='test 5',lw='0.5')
-plt.xlim(0,0.8)
-plt.ylim(-46,73)
+plt.xlim(0,0.6)
+plt.ylim(-45,65)
 plt.grid('on')
 plt.xlabel('time (milliseconds)')
 plt.ylabel('deacceleration $(\mathdefault{kg_n})$')
@@ -114,7 +117,8 @@ plt.tight_layout()
 
 
 D = np.loadtxt('../data/accel_1.csv',skiprows=2,delimiter=',')
-tt = (D[:,0]*1000)-0.4
+tt = D[:,0]-0.00198
+tt = tt*1000 
 dd_1 = D[:,1]
 dd_2 = D[:,2]
 dd_3 = D[:,3]
@@ -127,7 +131,7 @@ plt.plot(tt,dd_1,label='test 1',lw='0.5')
 plt.plot(tt,dd_3,'-.',label='test 3',lw='0.5')
 #plt.plot(tt,dd_4,':',label='test 4',lw='0.5')
 plt.plot(tt,dd_5,'-',label='test 5',lw='0.5')
-plt.xlim(0,0.8)
+plt.xlim(0,0.6)
 plt.ylim(-23,28)
 plt.grid('on')
 plt.xlabel('time (milliseconds)')
@@ -137,7 +141,7 @@ plt.legend(framealpha=1,fontsize=8,ncol=2,loc=3)
 plt.tight_layout()
 
 
-plt.savefig('candata.png',dpi=500)
+plt.savefig('candata_all_accels.png',dpi=500)
 
 
 
