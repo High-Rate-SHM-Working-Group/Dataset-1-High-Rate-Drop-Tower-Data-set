@@ -9,7 +9,6 @@ This dataset contains the measured acceleration data for an electronics unit und
 </p>
 <p align="center">
 Figure 1: Experimental setup for the quad PCB shock loading data showing the: (a) shock test system;  (b) mounting fixture, and; (c) electronics package.
-
 </p>
 
 The test specimen is subjected to 5 repeated tests where slight variations in the signal are observed, presumably caused by damage in the PCBs. Figure 2 shows the deceleration profile from three different tests for a single accelerometer.
