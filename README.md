@@ -47,14 +47,14 @@ Cite this data as:
 
 Jacob Dodson, Jonathan Hong, and Alain Beliveau, “Dataset 1 high rate drop tower data set,” Dec. 2019. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-1-High-Rate-Drop-Tower-Data-set
 
-@Misc{Dodson2019Dataset1High,
-  author = {Jacob Dodson and Jonathan Hong and Alain Beliveau},
-  month  = dec,
-  title  = {Dataset 1 High Rate Drop Tower Data set},
-  year   = {2019},
-  groups = {High-Rate-SHM-Working-Group},
-  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-1-High-Rate-Drop-Tower-Data-set},
-}
+@Misc{Dodson2019Dataset1High,<br/><br/>
+  author = {Jacob Dodson and Jonathan Hong and Alain Beliveau},<br/><br/>
+  month  = dec,<br/><br/>
+  title  = {Dataset 1 High Rate Drop Tower Data set},<br/><br/>
+  year   = {2019},<br/><br/>
+  groups = {High-Rate-SHM-Working-Group},<br/><br/>
+  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-1-High-Rate-Drop-Tower-Data-set},<br/><br/>
+}<br/><br/>
 
 
 
