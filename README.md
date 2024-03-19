@@ -1,4 +1,4 @@
-# Dataset-1-High-Rate-Drop-Tower-Data-set 
+# Dataset 1 High Rate Drop Tower Dataset 
 
 This dataset contains the measured acceleration data for an electronics unit under shock test. Figure 1 shows the electronics unit which consists of four circuit boards with high-g Meggitt 72 accelerometers mounted on each. The units for the accelerometers are in kg<sub>n</sub> and are sampled at 1 MS/s. The Meggitt 72 high-g accelerometers are able to accurately measure accelerations of 120,000 g<sub>n</sub> or 120 kg<sub>n</sub>, where 1 g<sub>n</sub> = 9.81 m/s<sup>2</sup> = 32.2 ft/s<sup>2</sup>. The electronics are potted in the canister with potting material to secure all parts in place. The axial fixture is instrumented with a bottom accelerometer (an Endevco7280A-60k) and a top accelerometer (an Endevco7270A-60k) to measure the input into the fixture.
 
